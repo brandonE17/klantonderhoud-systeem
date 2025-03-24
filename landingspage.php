@@ -1,4 +1,18 @@
 <?php
+//................................................................................................................
+// Naam script             : Klantonderhoud-systeem
+// Omschrijving            : Landingpage klantonderhoud-systeem
+// Naam ontwikkelaar       : Brandon, Siham
+// Project                 : 
+// Datum                   : 3-24-2025
+//...............................................................................................................
+// Aanpassing Datum Project Pgmr OMschrijving
+//
+//................................................................................................................//
+
+
+
+
 // Database configuratie
 $servername = "localhost";
 $username = "root";
