@@ -1,4 +1,19 @@
 <?php
+
+//................................................................................................................
+// Naam script             : Klantonderhoud-systeem
+// Omschrijving            : Loginpage klantonderhoud-systeem
+// Naam ontwikkelaar       : Brandon, Siham
+// Project                 : 
+// Datum                   : 3-24-2025
+//...............................................................................................................
+// Aanpassing Datum Project Pgmr OMschrijving
+//
+//................................................................................................................//
+
+
+
+
 // Start de sessie
 session_start();
 
