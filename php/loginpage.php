@@ -1,16 +1,17 @@
 <?php
 
 //................................................................................................................
-// Naam script             : Klantonderhoud-systeem
+// Naam script             : loginpage.php
 // Omschrijving            : Loginpage klantonderhoud-systeem
 // Naam ontwikkelaar       : Brandon, Siham
-// Project                 : 
+// Project                 : klantonderhoud-systeem
+// Versie                  : 1.0
 // Datum                   : 3-24-2025
 //...............................................................................................................
 // Aanpassing Datum Project Pgmr OMschrijving
 //
 //................................................................................................................//
-
+ 
 
 
 

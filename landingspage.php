@@ -1,9 +1,10 @@
 <?php
 //................................................................................................................
-// Naam script             : Klantonderhoud-systeem
+// Naam script             : landingspage.html 
 // Omschrijving            : Landingpage klantonderhoud-systeem
 // Naam ontwikkelaars       : Brandon, Siham
-// Project                 : 
+// Project                 :  Klantonderhoud-systeem
+// Versie                  : 1.0
 // Datum                   : 3-24-2025
 //...............................................................................................................
 // Aanpassing Datum Project Pgmr OMschrijving
