@@ -2,7 +2,7 @@
 //................................................................................................................
 // Naam script             : Klantonderhoud-systeem
 // Omschrijving            : Landingpage klantonderhoud-systeem
-// Naam ontwikkelaar       : Brandon, Siham
+// Naam ontwikkelaars       : Brandon, Siham
 // Project                 : 
 // Datum                   : 3-24-2025
 //...............................................................................................................

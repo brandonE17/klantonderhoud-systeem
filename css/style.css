@@ -30,7 +30,7 @@ h1 {
 .button-container {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; 
     margin-bottom: 20px;
 }
 .button {
